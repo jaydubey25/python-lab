@@ -15,7 +15,7 @@ class pk:
     def show(self):
         print("name ="+ self.name)
         print("age =" , self.age)
-obj1=pk("amit",21)
+obj1=pk("jay",20)
 obj1.show()
 
 class MyClass:
