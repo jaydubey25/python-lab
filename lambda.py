@@ -16,9 +16,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> l=list(map(lambda x: x+2,li))
 >>> print(l)
 [3, 4, 5, 6]
->>> name=["amit","sumit","ram","syam"]
->>> last_name=["patel","mukati","patel","mandloi"]
+>>> name=["sukhdev","sumit","ram","syam"]
+>>> last_name=["sharma","mukati","patel","mandloi"]
 >>> l=list(map(lambda x,y:x+" "+y,name,last_name))
 >>> print(l)
-['amit patel', 'sumit mukati', 'ram patel', 'syam mandloi']
+['sukhdev sharma', 'sumit mukati', 'ram patel', 'syam mandloi']
 >>> 
