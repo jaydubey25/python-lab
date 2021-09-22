@@ -2,13 +2,13 @@ my_tuple=()
 print(my_tuple)
 thistuple=(1,2,3,4,5)
 print(thistuple)
-thistuple=(1,2,3),"Amit",(5,6,7)
+thistuple=(1,2,3),"Jay",(5,6,7)
 print(thistuple)
-thistuple=(1,2,3),"Amit",(5,6,7),[5,9,8]
+thistuple=(1,2,3),"Jay",(5,6,7),[5,9,8]
 print(thistuple[0])
 print(thistuple[3])
 print(thistuple)
-thistuple=23,'CSIT',8
+thistuple=23,'CSIT',27
 print(thistuple)
 a,b,c=thistuple
 print(a)
@@ -20,9 +20,9 @@ c=87
 print(a)
 print(thistuple)
 print(type(thistuple))
-thistuple=('Amit')
+thistuple=('Jay')
 print(type(thistuple))
-thistuple=(1,2,3),"Amit",(5,6,7),[5,9,8]
+thistuple=(1,2,3),"Jay",(5,6,7),[5,9,8]
 print(thistuple)
 print(thistuple[0])
 print(thistuple[2])
@@ -35,18 +35,18 @@ print(thistuple[0:1])
 print(thistuple[:-1])
 thistuple=(1,2,8)+(2,7,4)
 print(thistuple)
-print(('Amit',)*5)
+print(('Jay',)*5)
 print((95)*2)
 print(thistuple)
 del(thistuple)
-thistuple=('A','m','i','t')
+thistuple=('J','a','y')
 print(thistuple)
 print(thistuple.count('A'))
 print(thistuple.count('y'))
 print(thistuple.index('A'))
 print('a' in thistuple)
 print('z' in thistuple)
-for m in ('Amit','Ritik'):
+for m in ('Jay','Ritik'):
     print('hello',m)
 a=(6,8,9)
 for n in a:
