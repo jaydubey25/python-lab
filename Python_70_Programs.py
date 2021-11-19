@@ -711,7 +711,7 @@ def capitalize_first_last_letters(str1):
 print(capitalize_first_last_letters("acropolis"))
 print(capitalize_first_last_letters("Shyam"))
 AcropoliS
-ShrutI
+Shryam
 
 
 #47)Write a Python program to compute sum of digits of a given string.
